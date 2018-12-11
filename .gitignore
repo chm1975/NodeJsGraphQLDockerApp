@@ -1,0 +1,7 @@
+#folders and files to ignore
+.idea/
+data/
+src/
+node-modules/
+package-lock.json
+
